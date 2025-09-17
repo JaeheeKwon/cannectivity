@@ -12,6 +12,7 @@
 		mcuboot-led0 = &red_led_1;
 		mcuboot-button0 = &user_button;
   };
+
 	cannectivity: cannectivity {
 		compatible = "cannectivity";
 		// timestamp-counter = <&counter2>;
